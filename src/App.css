@@ -562,7 +562,7 @@ body {
 
 .schedule-item {
   display: grid;
-  grid-template-columns: 86px 1fr;
+  grid-template-columns: 104px 1fr;
   gap: 1.25rem;
   padding: 1.4rem 0;
   border-bottom: 1px solid var(--rule-light);
